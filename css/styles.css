@@ -131,8 +131,8 @@ a {
     border: 1px dashed gray; /* 1px幅の点線をグレー色で囲む */
     border-radius: 10px; /* 角を丸くする */
     line-height: 36px;
-    
     text-align: left;
+    margin-bottom: 20px;
   }
 
   .cv-contents figure.left {
